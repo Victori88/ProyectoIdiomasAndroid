@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sprachenprojekt</string>
+    <string name="titulo">Willkommen</string>
+    <string name="boton">Akzeptieren</string>
+</resources>
